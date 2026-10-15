@@ -9,3 +9,5 @@ Server = https://github.com/echohumm/repo/releases/download/x86_64
 ```
 
 btw don't expect updates to be often, i tend to forget about this, and even if i remember.. zen takes like 2 hours, an extra swapfile, and my computer to stutter soooo...
+
+vscodium and zen-browser are kinda missing rn because either my isp, nic, or gh is being stupid.. i can't upload them via the cli and i tried manually but nope..
